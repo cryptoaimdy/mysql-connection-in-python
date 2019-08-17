@@ -11,7 +11,7 @@ try:
    connection = mysql.connector.connect(host='localhost',
                              database='Cryptocurrencies',
                              user='root',
-                             password='natural786')
+                             password='password')
    sql_select_query = "SELECT * from Cryptocoins"
 
    cursor = connection.cursor()
