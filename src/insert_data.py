@@ -11,7 +11,7 @@ try:
    connection = mysql.connector.connect(host='localhost',
                              database='Cryptocurrencies',
                              user='root',
-                             password='natural786')
+                             password='password')
    sql_insert_query = """ INSERT INTO CryptoCoins
                           (id, name, price_usd, Algo) VALUES (%s,%s,%s,%s)"""
     
