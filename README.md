@@ -17,8 +17,8 @@ Here we ll know about how to connect MySQL in Python using a library called "MyS
 
 **Download and Install MySQL, and then Set Path**
 
-+ Open MySQL in Command Propmt and create a database which u want to link and work through python
-Note: You can also use wamp server to create and read your data's into database. Wamp ll show your data in GUI form.
++ Open MySQL in Command Prompt and create a database which u want to link and work through python
++ Note: You can also use wamp server to create and read your data's into database. Wamp ll show your data in GUI form.
 
 
 **Libraries to connect mongoDB to Python**
