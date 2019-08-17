@@ -11,7 +11,7 @@ try:
     connection = mysql.connector.connect(host='localhost',
                                          database='Cryptocurrencies',
                                          user='root',
-                                         password='natural786')
+                                         password='password')
     
     cursor = connection.cursor()
     print ("Records Before Deleting single record from cryptocoins table")
