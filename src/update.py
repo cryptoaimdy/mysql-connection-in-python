@@ -11,7 +11,7 @@ try:
     connection = mysql.connector.connect(host='localhost',
                                          database='Cryptocurrencies',
                                          user='root',
-                                         password='natural786')
+                                         password='password')
     
     cursor = connection.cursor()
     sql_update_query = """Update cryptocoins set price_usd = %s where id = %s"""
