@@ -21,7 +21,7 @@ Here we ll know about how to connect MySQL in Python using a library called "MyS
 + Note: You can also use wamp server to create and read your data's into database. Wamp ll show your data in GUI form.
 
 
-**Libraries to connect mongoDB to Python**
+**Libraries to connect mysql to Python**
 + MySQL Connector is a great library for MySQL Connectivity.
 + PyMySQL is also a library to connect mysql  with python but we ll prefer mysql connector here here.
 
